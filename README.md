@@ -4,6 +4,8 @@
 
 全程AI修改，可能会有问题，作为一个看不太懂代码的小白真的尽力了
 
+这个开发版 https://github.com/Xk233a/xiaozhi-esp32/tree/main/main/boards/esp32e_2.8inch
+
 开发板参数在这个网站有 http://www.lcdwiki.com/zh/2.8inch_ESP32-32E_Display
 
 # 小智 AI 聊天机器人 （XiaoZhi AI Chatbot）
