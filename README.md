@@ -1,4 +1,7 @@
-# ESP32e_2.8inch适配尝试
+# ESP32e_2.8inch适配尝试中，欢迎各位大佬指点
+## 目前改不明白了，求各位出手相助（无法编译，链接错误，但找不到位置了）
+[![pE5BXrD.md.png](https://s21.ax1x.com/2025/04/21/pE5BXrD.md.png)](https://imgse.com/i/pE5BXrD)
+全程AI修改，可能会有问题，作为一个看不太懂代码的小白真的尽力了
 # 小智 AI 聊天机器人 （XiaoZhi AI Chatbot）
 
 （中文 | [English](README_en.md) | [日本語](README_ja.md)）
