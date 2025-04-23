@@ -1,3 +1,4 @@
+# 经过4个晚上的修改，发现目标开发板内存过小，此贴终结
 # ESP32e_2.8inch适配尝试中，欢迎各位大佬指点
 ## 目前改不明白了，求各位出手相助（无法编译，链接错误，但找不到位置了）
 [![pE5BXrD.md.png](https://s21.ax1x.com/2025/04/21/pE5BXrD.md.png)](https://imgse.com/i/pE5BXrD)
